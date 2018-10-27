@@ -254,7 +254,7 @@ U 1 1 5BD4A6A9
 P 6700 1750
 F 0 "J2" H 6600 2000 50  0000 C CNN
 F 1 "VOUT" H 6600 1900 50  0000 C CNN
-F 2 "/home/logic/_workspace/kicad/PCBs/LM2596HV_breakout/" H 6700 1750 50  0001 C CNN
+F 2 "footprint-lib:mpt_0,5%2f2-2,54" H 6700 1750 50  0001 C CNN
 F 3 "~" H 6700 1750 50  0001 C CNN
 	1    6700 1750
 	-1   0    0    1   
