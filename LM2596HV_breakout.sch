@@ -240,13 +240,13 @@ Connection ~ 8400 3600
 $Comp
 L Connector:Screw_Terminal_01x02 J1
 U 1 1 5BD4A65B
-P 6700 1250
-F 0 "J1" H 6600 1500 50  0000 C CNN
-F 1 "VIN" H 6600 1400 50  0000 C CNN
-F 2 "w_conn_mpt:mpt_0,5%2f2-2,54" H 6700 1250 50  0001 C CNN
-F 3 "~" H 6700 1250 50  0001 C CNN
-	1    6700 1250
-	-1   0    0    1   
+P 6700 1150
+F 0 "J1" H 6600 1400 50  0000 C CNN
+F 1 "VIN" H 6600 1300 50  0000 C CNN
+F 2 "footprint-lib:mpt_0,5%2f2-2,54" H 6700 1150 50  0001 C CNN
+F 3 "~" H 6700 1150 50  0001 C CNN
+	1    6700 1150
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Connector:Screw_Terminal_01x02 J2
@@ -254,7 +254,7 @@ U 1 1 5BD4A6A9
 P 6700 1750
 F 0 "J2" H 6600 2000 50  0000 C CNN
 F 1 "VOUT" H 6600 1900 50  0000 C CNN
-F 2 "w_conn_mpt:mpt_0,5%2f2-2,54" H 6700 1750 50  0001 C CNN
+F 2 "/home/logic/_workspace/kicad/PCBs/LM2596HV_breakout/" H 6700 1750 50  0001 C CNN
 F 3 "~" H 6700 1750 50  0001 C CNN
 	1    6700 1750
 	-1   0    0    1   
